@@ -12,3 +12,4 @@
 ## 工具库（Utilities）
 
 [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+[moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
